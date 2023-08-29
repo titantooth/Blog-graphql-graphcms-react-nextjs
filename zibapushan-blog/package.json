@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.8.1",
     "autoprefixer": "10.4.15",
     "graphql": "^16.8.0",
     "graphql-request": "^6.1.0",
